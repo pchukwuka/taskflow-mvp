@@ -37,7 +37,7 @@ Startups need a fast, low-cost way to validate ideas. TASKFLOW is an MVP to quic
 
  
 
-## ▶ Run Locally
+##  Run Locally
 
 1. Clone the repo:
 
@@ -74,14 +74,14 @@ A more detailed explanation and diagram are in `INFRASTRUCTURE.md`.
  
 
 
-## 📝 Notes & Design Choices
+##  Design Choices
 
 - No backend: persistence is via `localStorage` for simplicity and to satisfy the assignment's constraints (static hosting).
 - Prioritized accessibility and clear UI for quick MVP validation.
 
 
 
-## 📂 Repository Structure
+##  Repository Structure
 
 
 /peace
